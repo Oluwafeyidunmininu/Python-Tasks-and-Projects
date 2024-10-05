@@ -1,4 +1,4 @@
-# Python-Tasks
+# Python-Tasks-and-Project 
 ## Overview
 This repository showcases my python tasks and  projects on Exploring NumPy, Pandas, Matplotlib, Seaborn, Data cleaning, Data visualization and Exploratory Data Analysis
 
@@ -10,7 +10,7 @@ This repository showcases my python tasks and  projects on Exploring NumPy, Pand
 
 - Heat Map
 ![Heat map seaborn](https://github.com/user-attachments/assets/4a574eba-ee01-4459-bc32-0f479e239db3)
-(Check through https://github.com/Oluwafeyidunmininu/Python-Tasks/blob/main/Seaborn%20%20Task%20.ipynb other reports)
+(Check through https://github.com/Oluwafeyidunmininu/Python-Tasks/blob/main/Seaborn%20%20Task%20.ipynb  for the code process and other reports)
 
 ### Exploratory Data Analysis
 ![EDA](https://github.com/user-attachments/assets/2bce7529-deef-487d-9c25-4fe5c11dd077)

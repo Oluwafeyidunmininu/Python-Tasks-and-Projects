@@ -1,6 +1,6 @@
 # Python-Tasks-and-Project 
 ## Overview
-This repository showcases my python tasks and  projects on Exploring NumPy, Pandas, Matplotlib, Seaborn, Data cleaning, Data visualization and Exploratory Data Analysis
+This repository showcases some of my python tasks and  projects on Exploring NumPy, Pandas, Matplotlib, Seaborn, Data cleaning, Data visualization and Exploratory Data Analysis
 
 ## Some of the reports created
 ### Seaborn

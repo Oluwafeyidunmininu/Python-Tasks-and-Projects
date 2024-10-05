@@ -10,9 +10,9 @@ This repository showcases my python tasks and  projects on Exploring NumPy, Pand
 
 - Heat Map
 ![Heat map seaborn](https://github.com/user-attachments/assets/4a574eba-ee01-4459-bc32-0f479e239db3)
-(Check through  details)
+(Check through https://github.com/Oluwafeyidunmininu/Python-Tasks/blob/main/Seaborn%20%20Task%20.ipynb other reports)
 
 ### Exploratory Data Analysis
 ![EDA](https://github.com/user-attachments/assets/2bce7529-deef-487d-9c25-4fe5c11dd077)
-(Check through [(https://github.com/Oluwafeyidunmininu/Python-Tasks/blob/main/Project%20On%20Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb) for cleaning process and report)
+(Check through [(https://github.com/Oluwafeyidunmininu/Python-Tasks/blob/main/Project%20On%20Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb) for cleaning process and other reports)
 

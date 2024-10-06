@@ -15,7 +15,7 @@ This repository showcases some of my python tasks and  projects on Exploring Num
 
 ## Exploratory Data Analysis
 - Data Cleaning
-Data cleaning  such as checking for nulls amd missing number, changing data type and other cleaning process was done before the Exploratory Data Analysis (EDA) 
+  Data cleaning  such as checking for nulls amd missing number, changing data type and other cleaning process was done before the Exploratory Data Analysis (EDA) 
 ![EDA](https://github.com/user-attachments/assets/2bce7529-deef-487d-9c25-4fe5c11dd077)
 (Check through [(https://github.com/Oluwafeyidunmininu/Python-Tasks/blob/main/Project%20On%20Data%20Cleaning%20and%20Exploratory%20Data%20Analysis%20(EDA).ipynb) for cleaning process and other reports)
 

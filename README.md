@@ -13,7 +13,7 @@ This repository showcases some of my python tasks and  projects on Exploring Num
 ![Heat map seaborn](https://github.com/user-attachments/assets/4a574eba-ee01-4459-bc32-0f479e239db3)
 (Check through https://github.com/Oluwafeyidunmininu/Python-Tasks/blob/main/Seaborn%20%20Task%20.ipynb  for the code process and other reports)
 
-## Exploratory Data Analysis
+## Project on Exploratory Data Analysis
 - Data Cleaning
   Data cleaning  such as checking for nulls amd missing number, changing data type and other cleaning process was done before the Exploratory Data Analysis (EDA)
   
